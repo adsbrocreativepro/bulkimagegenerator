@@ -1,0 +1,5 @@
+{
+  "name": "AdsBro Bulk Image Generator",
+  "description": "A dark-themed bulk image generation and editing tool using Gemini 2.5 Flash Image. Features character DNA consistency and text-based image editing.",
+  "requestFramePermissions": []
+}
